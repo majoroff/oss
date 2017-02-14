@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/work/tools/UCSDUnfoldingMaps/lib/jogl-all-natives-linux-i586.jar!/" />
+      <root url="jar://$USER_HOME$/work/tools/UCSDUnfoldingMaps/lib/gluegen-rt-natives-windows-amd64.jar!/" />
+      <root url="jar://$USER_HOME$/work/tools/UCSDUnfoldingMaps/lib/jogl-all-natives-linux-armv6hf.jar!/" />
+      <root url="jar://$USER_HOME$/work/tools/UCSDUnfoldingMaps/lib/gluegen-rt-natives-linux-armv6hf.jar!/" />
+      <root url="jar://$USER_HOME$/work/tools/UCSDUnfoldingMaps/lib/jogl-all-natives-windows-amd64.jar!/" />
+      <root url="jar://$USER_HOME$/work/tools/UCSDUnfoldingMaps/lib/jogl-all-natives-windows-i586.jar!/" />
+      <root url="jar://$USER_HOME$/work/tools/UCSDUnfoldingMaps/lib/core.jar!/" />
+      <root url="jar://$USER_HOME$/work/tools/UCSDUnfoldingMaps/lib/log4j-1.2.15.jar!/" />
+      <root url="jar://$USER_HOME$/work/tools/UCSDUnfoldingMaps/lib/unfolding.0.9.7-uscd.jar!/" />
+      <root url="jar://$USER_HOME$/work/tools/UCSDUnfoldingMaps/lib/jogl-all-natives-linux-amd64.jar!/" />
+      <root url="jar://$USER_HOME$/work/tools/UCSDUnfoldingMaps/lib/gluegen-rt-natives-linux-amd64.jar!/" />
+      <root url="jar://$USER_HOME$/work/tools/UCSDUnfoldingMaps/lib/gluegen-rt-natives-windows-i586.jar!/" />
+      <root url="jar://$USER_HOME$/work/tools/UCSDUnfoldingMaps/lib/gluegen-rt.jar!/" />
+      <root url="jar://$USER_HOME$/work/tools/UCSDUnfoldingMaps/lib/libTUIO.jar!/" />
+      <root url="jar://$USER_HOME$/work/tools/UCSDUnfoldingMaps/lib/jogl-all.jar!/" />
+      <root url="jar://$USER_HOME$/work/tools/UCSDUnfoldingMaps/lib/sqlite-jdbc-3.7.2.jar!/" />
+      <root url="jar://$USER_HOME$/work/tools/UCSDUnfoldingMaps/lib/gluegen-rt-natives-linux-i586.jar!/" />
+      <root url="jar://$USER_HOME$/work/tools/UCSDUnfoldingMaps/lib/gluegen-rt-natives-macosx-universal.jar!/" />
+      <root url="jar://$USER_HOME$/work/tools/UCSDUnfoldingMaps/lib/jogl-all-natives-macosx-universal.jar!/" />
+      <root url="jar://$USER_HOME$/work/tools/UCSDUnfoldingMaps/lib/json4processing.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

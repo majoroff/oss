@@ -13,5 +13,7 @@
   def sqrt(x: Double) = sqrtIter(1.0, x)
 
   sqrt(0.001)
-  sqrt()
+  sqrt(
+
+  )
   //sqrt(1e-6)
