@@ -45,6 +45,9 @@ public class Stack<Item> implements Iterable<Item> {
         }
     }
 
+    public Item peek() {
+        return first.item;
+    }
 
     public static void main(String[] args){
         Stack<String> s = new Stack<String>();
@@ -52,6 +55,7 @@ public class Stack<Item> implements Iterable<Item> {
             String item = StdIn.readString();
             if(!item.equals("-")){
                 s.push(item);
+                StdOut.println(s.peek());
             }
             else if(!s.isEmpty()) StdOut.print(s.pop() + " ");
         }

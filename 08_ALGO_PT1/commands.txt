@@ -1,0 +1,14 @@
+Compile:
+	/bin	- empty folder that will contain compiled .class fiels
+	-cp	for including .jar files, may be contained in /lib folder for example;
+		separation symbol for multiple libs is ":", e.g. "-cp lib/lib1.jar:lib/lib2.jar"
+		
+	/src	- contains .java source files
+
+ javac -d bin -sourcepath src -cp algs4.jar src/DejkstraEvaluate.java 
+
+Run:
+	- include /bin directory in classpath -cp
+	- class name without any extensions
+
+ java -cp bin:algs4.jar DejkstraEvaluate 
